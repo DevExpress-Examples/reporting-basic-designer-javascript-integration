@@ -1,8 +1,8 @@
 <!-- default file list -->
 *Files to look at*:
-* [ReportDesignerController.cs](./CS/DXWebApplication1/Controllers/ReportDesignerController.cs)
-* [WebDocumentViewerController.cs](./CS/DXWebApplication1/Controllers/WebDocumentViewerController.cs)
-* [QueryBuilderController.cs](./CS/DXWebApplication1/Controllers/QueryBuilderController.cs)
+* [ReportDesignerController.cs](./CS/DXWebApplication1/Controllers/ReportDesignerController.cs) (VB: [ReportDesignerController.vb](./VB/DXWebApplication1/Controllers/ReportDesignerController.vb))
+* [WebDocumentViewerController.cs](./CS/DXWebApplication1/Controllers/WebDocumentViewerController.cs) (VB: [WebDocumentViewerController.vb](./VB/DXWebApplication1/Controllers/WebDocumentViewerController.vb))
+* [QueryBuilderController.cs](./CS/DXWebApplication1/Controllers/QueryBuilderController.cs) (VB: [QueryBuilderController.vb](./VB/DXWebApplication1/Controllers/QueryBuilderController.vb))
 * [package.json](./JS/ClientSide/package.json)
 * [example.js](./JS/ClientSide/example.js)
 * [index.html](./JS/ClientSide/index.html)
