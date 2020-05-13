@@ -22,7 +22,7 @@ This example consists of two parts: 
 
 Perform the following steps to run this example:
 
-1. Open the back-end project solution (**CS\DXWebApplication1.sln**) in Visual Studio and run the project.
+1. Open the back-end project solution (**CS\DXWebApplication1.sln** or **VB\DXWebApplication1.sln**) in Visual Studio and run the project.
 2. Navigate to the **JS\ClientSide** folder that is the client part's root folder.
 3. Open the console and run the following command:
     - if you have the **npm** package manager:
