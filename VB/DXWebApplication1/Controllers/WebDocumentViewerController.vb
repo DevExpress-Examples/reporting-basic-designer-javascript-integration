@@ -3,7 +3,7 @@ Imports System.Web.Mvc
 
 Namespace DXWebApplication1.Controllers
     Public Class WebDocumentViewerController
-        Inherits WebDocumentViewerApiController
+        Inherits WebDocumentViewerApiControllerBase
 
         '
         ' GET: /WebDocumentViewer/
