@@ -3,7 +3,7 @@ using System.Web.Mvc;
 
 namespace DXWebApplication1.Controllers
 {
-    public class QueryBuilderController : QueryBuilderApiController
+    public class QueryBuilderController : QueryBuilderApiControllerBase
     {
         //
         // GET: /QueryBuilder/
