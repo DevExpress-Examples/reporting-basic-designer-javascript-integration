@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace DXWebApplication1.Controllers
 {
-    public class ReportDesignerController : ReportDesignerApiControllerBase
+    public class ReportDesignerController : ReportDesignerApiController
     {
         public override ActionResult Invoke()
         {

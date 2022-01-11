@@ -3,7 +3,7 @@ using System.Web.Mvc;
 
 namespace DXWebApplication1.Controllers
 {
-    public class WebDocumentViewerController : WebDocumentViewerApiControllerBase
+    public class WebDocumentViewerController : WebDocumentViewerApiController
     {
         //
         // GET: /WebDocumentViewer/
