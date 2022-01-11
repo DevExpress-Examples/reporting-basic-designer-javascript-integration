@@ -6,7 +6,7 @@ Imports System.Web.Mvc
 
 Namespace DXWebApplication1.Controllers
     Public Class ReportDesignerController
-        Inherits ReportDesignerApiControllerBase
+        Inherits ReportDesignerApiController
 
         Public Overrides Function Invoke() As ActionResult
             Dim result = MyBase.Invoke()
