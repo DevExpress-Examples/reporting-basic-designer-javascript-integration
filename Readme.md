@@ -40,4 +40,4 @@ Perform the following steps to run this example:
 4. Host the client-side part ( **JS\ClientSide** folder ) on the web server. You can add a new web site in the **Internet Information Services (IIS) Manager**.
 5. Launch the browser and open the web site created in the previous step.
 
-![](images/screenshot.png)
+    ![JavaScript Report Designer Integration](images/screenshot.png)
