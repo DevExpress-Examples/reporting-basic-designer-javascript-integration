@@ -42,3 +42,8 @@ Perform the following steps to run this example:
 * [package.json](./JS/ClientSide/package.json)
 * [example.js](./JS/ClientSide/example.js)
 * [index.html](./JS/ClientSide/index.html)
+
+## Documentation
+
+* [Report Designer Integration (npm or Yarn Package Managers)
+](https://docs.devexpress.com/XtraReports/401256/web-reporting/knockout-reporting/report-designer/report-designer-integration-with-npm-yarn)
