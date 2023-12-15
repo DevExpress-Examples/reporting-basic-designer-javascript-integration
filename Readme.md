@@ -5,7 +5,7 @@
 <!-- default badges end -->
 <!-- default file list -->
 
-# Reporting for Web - How to Perform the JavaScript Report Designer Integration (with npm or Yarn package managers)
+# Reporting for MVC - How to Perform the JavaScript Report Designer Integration (with npm or Yarn package managers)
 
 This example demonstrates how to integrate the [End-User Web Report Designer](https://docs.devexpress.com/XtraReports/17103) in JavaScript application based on the server-side model.
 
