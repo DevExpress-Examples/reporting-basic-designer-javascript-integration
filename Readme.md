@@ -4,16 +4,8 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 <!-- default file list -->
-*Files to look at*:
-* [ReportDesignerController.cs](./CS/DXWebApplication1/Controllers/ReportDesignerController.cs) (VB: [ReportDesignerController.vb](./VB/DXWebApplication1/Controllers/ReportDesignerController.vb))
-* [WebDocumentViewerController.cs](./CS/DXWebApplication1/Controllers/WebDocumentViewerController.cs) (VB: [WebDocumentViewerController.vb](./VB/DXWebApplication1/Controllers/WebDocumentViewerController.vb))
-* [QueryBuilderController.cs](./CS/DXWebApplication1/Controllers/QueryBuilderController.cs) (VB: [QueryBuilderController.vb](./VB/DXWebApplication1/Controllers/QueryBuilderController.vb))
-* [package.json](./JS/ClientSide/package.json)
-* [example.js](./JS/ClientSide/example.js)
-* [index.html](./JS/ClientSide/index.html)
-<!-- default file list end -->
 
-# How to Perform the JavaScript Report Designer Integration (with npm or Yarn package managers)
+# Reporting for Web - How to Perform the JavaScript Report Designer Integration (with npm or Yarn package managers)
 
 This example demonstrates how to integrate the [End-User Web Report Designer](https://docs.devexpress.com/XtraReports/17103) in JavaScript application based on the server-side model.
 
@@ -41,3 +33,12 @@ Perform the following steps to run this example:
 5. Launch the browser and open the web site created in the previous step.
 
     ![JavaScript Report Designer Integration](images/screenshot.png)
+
+## Files to Review
+
+* [ReportDesignerController.cs](./CS/DXWebApplication1/Controllers/ReportDesignerController.cs) (VB: [ReportDesignerController.vb](./VB/DXWebApplication1/Controllers/ReportDesignerController.vb))
+* [WebDocumentViewerController.cs](./CS/DXWebApplication1/Controllers/WebDocumentViewerController.cs) (VB: [WebDocumentViewerController.vb](./VB/DXWebApplication1/Controllers/WebDocumentViewerController.vb))
+* [QueryBuilderController.cs](./CS/DXWebApplication1/Controllers/QueryBuilderController.cs) (VB: [QueryBuilderController.vb](./VB/DXWebApplication1/Controllers/QueryBuilderController.vb))
+* [package.json](./JS/ClientSide/package.json)
+* [example.js](./JS/ClientSide/example.js)
+* [index.html](./JS/ClientSide/index.html)
