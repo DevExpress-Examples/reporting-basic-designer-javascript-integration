@@ -132,7 +132,7 @@ Public Class TestReport
         Me.Title.BorderColor = System.Drawing.Color.Black
         Me.Title.Borders = DevExpress.XtraPrinting.BorderSide.None
         Me.Title.BorderWidth = 1.0!
-        Me.Title.Font = New System.Drawing.Font("Arial", 14.25!)
+        Me.Title.Font = New DevExpress.Drawing.DXFont("Arial", 14.25!)
         Me.Title.ForeColor = System.Drawing.Color.FromArgb(CType(CType(75, Byte), Integer), CType(CType(75, Byte), Integer), CType(CType(75, Byte), Integer))
         Me.Title.Name = "Title"
         '
@@ -142,7 +142,7 @@ Public Class TestReport
         Me.DetailCaption1.BorderColor = System.Drawing.Color.White
         Me.DetailCaption1.Borders = DevExpress.XtraPrinting.BorderSide.Left
         Me.DetailCaption1.BorderWidth = 2.0!
-        Me.DetailCaption1.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.DetailCaption1.Font = New DevExpress.Drawing.DXFont("Arial", 8.25!, DevExpress.Drawing.DXFontStyle.Bold)
         Me.DetailCaption1.ForeColor = System.Drawing.Color.White
         Me.DetailCaption1.Name = "DetailCaption1"
         Me.DetailCaption1.Padding = New DevExpress.XtraPrinting.PaddingInfo(6, 6, 0, 0, 100.0!)
@@ -153,7 +153,7 @@ Public Class TestReport
         Me.DetailData1.BorderColor = System.Drawing.Color.Transparent
         Me.DetailData1.Borders = DevExpress.XtraPrinting.BorderSide.Left
         Me.DetailData1.BorderWidth = 2.0!
-        Me.DetailData1.Font = New System.Drawing.Font("Arial", 8.25!)
+        Me.DetailData1.Font = New DevExpress.Drawing.DXFont("Arial", 8.25!)
         Me.DetailData1.ForeColor = System.Drawing.Color.Black
         Me.DetailData1.Name = "DetailData1"
         Me.DetailData1.Padding = New DevExpress.XtraPrinting.PaddingInfo(6, 6, 0, 0, 100.0!)
@@ -165,7 +165,7 @@ Public Class TestReport
         Me.DetailData3_Odd.BorderColor = System.Drawing.Color.Transparent
         Me.DetailData3_Odd.Borders = DevExpress.XtraPrinting.BorderSide.None
         Me.DetailData3_Odd.BorderWidth = 1.0!
-        Me.DetailData3_Odd.Font = New System.Drawing.Font("Arial", 8.25!)
+        Me.DetailData3_Odd.Font = New DevExpress.Drawing.DXFont("Arial", 8.25!)
         Me.DetailData3_Odd.ForeColor = System.Drawing.Color.Black
         Me.DetailData3_Odd.Name = "DetailData3_Odd"
         Me.DetailData3_Odd.Padding = New DevExpress.XtraPrinting.PaddingInfo(6, 6, 0, 0, 100.0!)
@@ -173,7 +173,7 @@ Public Class TestReport
         '
         'PageInfo
         '
-        Me.PageInfo.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.PageInfo.Font = New DevExpress.Drawing.DXFont("Arial", 8.25!, DevExpress.Drawing.DXFontStyle.Bold)
         Me.PageInfo.ForeColor = System.Drawing.Color.FromArgb(CType(CType(75, Byte), Integer), CType(CType(75, Byte), Integer), CType(CType(75, Byte), Integer))
         Me.PageInfo.Name = "PageInfo"
         Me.PageInfo.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
@@ -338,7 +338,7 @@ Public Class TestReport
         Me.ComponentStorage.AddRange(New System.ComponentModel.IComponent() {Me.sqlDataSource1})
         Me.DataMember = "Categories"
         Me.DataSource = Me.sqlDataSource1
-        Me.Font = New System.Drawing.Font("Arial", 9.75!)
+        Me.Font = New DevExpress.Drawing.DXFont("Arial", 9.75!)
         Me.StyleSheet.AddRange(New DevExpress.XtraReports.UI.XRControlStyle() {Me.Title, Me.DetailCaption1, Me.DetailData1, Me.DetailData3_Odd, Me.PageInfo})
         Me.Version = "19.2"
         CType(Me.table1, System.ComponentModel.ISupportInitialize).EndInit()
