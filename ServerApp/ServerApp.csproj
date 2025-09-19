@@ -3,7 +3,6 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="DevExpress.Drawing.Skia" Version="24.2.*-*" />
